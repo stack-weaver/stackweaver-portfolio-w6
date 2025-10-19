@@ -13,7 +13,7 @@ const blogPosts = [
     title: "The Future of DeFi: Trends to Watch in 2024",
     excerpt:
       "Exploring the latest developments in decentralized finance and what they mean for the future of blockchain technology.",
-    image: "/defi-future.jpg",
+    image: "/blog1.png",
     date: "2024-01-15",
     readTime: "8 min read",
     category: "DeFi",
@@ -43,9 +43,9 @@ const blogPosts = [
     title: "Building Secure Smart Contracts: Best Practices",
     excerpt:
       "A comprehensive guide to writing secure and efficient smart contracts, covering common vulnerabilities and how to avoid them.",
-    image: "/smart-contracts-security.jpg",
+    image: "/blog2.png",
     date: "2024-01-10",
-    readTime: "12 min read",
+    readTime: "45 min read",
     category: "Security",
     fullContent: `
       Smart contract security is paramount in blockchain development. A single vulnerability can lead to millions of dollars in losses. Here are the essential best practices every developer should follow.
@@ -82,7 +82,7 @@ const blogPosts = [
     title: "AI and Blockchain: A Perfect Match?",
     excerpt:
       "Examining the intersection of artificial intelligence and blockchain technology, and the innovative applications that emerge.",
-    image: "/ai-blockchain.jpg",
+    image: "/blog3.png",
     date: "2024-01-05",
     readTime: "10 min read",
     category: "AI",
@@ -121,7 +121,7 @@ const blogPosts = [
     title: "Gas Optimization Techniques for Ethereum",
     excerpt:
       "Learn how to optimize your smart contracts to reduce gas costs and improve efficiency on the Ethereum network.",
-    image: "/ethereum-gas.jpg",
+    image: "/blog4.png",
     date: "2023-12-28",
     readTime: "15 min read",
     category: "Ethereum",
