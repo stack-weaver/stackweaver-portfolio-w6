@@ -154,7 +154,7 @@ export function AboutSection() {
                 <span className="text-primary">▹</span> My Story
               </h3>
               <p className="text-muted-foreground leading-relaxed mb-4">
-                With over 5 years of experience in blockchain technology and artificial intelligence, I specialize in
+                With over 7 years of experience in blockchain technology and artificial intelligence, I specialize in
                 creating innovative solutions that bridge the gap between decentralized systems and machine learning.
               </p>
               <p className="text-muted-foreground leading-relaxed">

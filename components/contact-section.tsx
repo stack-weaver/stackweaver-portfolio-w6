@@ -27,8 +27,8 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email</h3>
-                    <a href="mailto:contact@example.com" className="text-muted-foreground hover:text-primary">
-                      contact@example.com
+                    <a href="stackweaver7@gmail.com" className="text-muted-foreground hover:text-primary">
+                      stackweaver7@gmail.com
                     </a>
                   </div>
                 </div>
@@ -42,12 +42,12 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-1">GitHub</h3>
                     <a
-                      href="https://github.com/yourusername"
+                      href="https://github.com/stack-weaver"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary"
                     >
-                      @yourusername
+                      @stack-weaver
                     </a>
                   </div>
                 </div>
@@ -60,7 +60,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Discord</h3>
-                    <span className="text-muted-foreground">username#1234</span>
+                    <span className="text-muted-foreground">!Strix</span>
                   </div>
                 </div>
               </Card>
@@ -78,7 +78,7 @@ export function ContactSection() {
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary"
                     >
-                      @yourusername
+                      https://t.me/@StackWeaver7
                     </a>
                   </div>
                 </div>
