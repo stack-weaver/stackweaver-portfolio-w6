@@ -60,7 +60,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Discord</h3>
-                    <span className="text-muted-foreground">!Strix</span>
+                    <a className="text-muted-foreground">https://discord.com/users/398866823602241538</a>
                   </div>
                 </div>
               </Card>
