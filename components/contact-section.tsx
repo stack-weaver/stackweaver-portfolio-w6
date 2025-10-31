@@ -73,7 +73,7 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold mb-1">Telegram</h3>
                     <a
-                      href="https://t.me/yourusername"
+                      href="https://t.me/@StackWeaver7"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary"
