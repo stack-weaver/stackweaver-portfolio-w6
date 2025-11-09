@@ -57,7 +57,7 @@ const reviews = [
     role: "Founder of DAO Platform",
     rating: 4.7,
     text: "Created an amazing governance system for our DAO. The code quality is exceptional.",
-    avatar: "/professional-man-caucasian.png",
+    avatar: "/professional-man-caucasian.jpg",
     gender: "male",
   },
   {
@@ -93,7 +93,7 @@ const reviews = [
     role: "CTO at Exchange Platform",
     rating: 4.6,
     text: "Developed a high-performance DEX with advanced features. The architecture is solid and scalable.",
-    avatar: "/professional-man-british.png",
+    avatar: "/professional-man-british.jpg",
     gender: "male",
   },
   {
@@ -102,7 +102,7 @@ const reviews = [
     role: "Product Owner at AI Company",
     rating: 4.9,
     text: "Created an impressive AI content moderator that handles millions of requests daily.",
-    avatar: "/professional-woman-redhead.png",
+    avatar: "/professional-woman-redhead.jpg",
     gender: "female",
   },
   {
@@ -120,7 +120,7 @@ const reviews = [
     role: "Director of Innovation",
     rating: 4.7,
     text: "Exceptional work on our tokenization platform. The solution is elegant and user-friendly.",
-    avatar: "/professional-woman-brunette.png",
+    avatar: "/professional-woman-brunette.jpg",
     gender: "female",
   },
   {
@@ -129,7 +129,7 @@ const reviews = [
     role: "Founder of Voting System",
     rating: 4.8,
     text: "Built a secure and transparent voting system using blockchain. Truly impressive technical skills.",
-    avatar: "/professional-man-tech-founder.png",
+    avatar: "/professional-man-tech-founder.jpg",
     gender: "male",
   },
   {
