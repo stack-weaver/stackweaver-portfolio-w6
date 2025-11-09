@@ -74,7 +74,7 @@ export function CertificationsSection() {
                 key={cert.id}
                 className="overflow-hidden bg-card/50 backdrop-blur hover:bg-card/70 transition-all hover:scale-105 group"
               >
-                <a href={cert.link} target={_blank}>
+                <a href={cert.link} target="_blank" rel="noopener noreferrer">
                   <div className="aspect-video overflow-hidden bg-muted">
                     <img
                       src={cert.image || "/placeholder.svg"}
