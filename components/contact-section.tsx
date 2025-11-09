@@ -47,7 +47,7 @@ export function ContactSection() {
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary"
                     >
-                      @stack-weaver
+                      StackWeaver
                     </a>
                   </div>
                 </div>
@@ -60,7 +60,7 @@ export function ContactSection() {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Discord</h3>
-                    <span className="text-muted-foreground">!Strix</span>
+                    <span className="text-muted-foreground">!S.Weaver</span>
                   </div>
                 </div>
               </Card>
