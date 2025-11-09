@@ -47,7 +47,7 @@ export function ContactSection() {
                       rel="noopener noreferrer"
                       className="text-muted-foreground hover:text-primary"
                     >
-                      StactWeaver
+                      StackWeaver
                     </a>
                   </div>
                 </div>
